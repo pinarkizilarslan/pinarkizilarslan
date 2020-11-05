@@ -6,7 +6,3 @@
 - 💻 Skills: C++ / C# / C / Linux System Management
 
 ![Profile views](https://gpvc.arturio.dev/Naereen)
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
-
-[![Github Badge](https://github.com/pinarkizilarslan](link) 
-[![Instagram Badge](https://www.instagram.com/pinarkzlrsln/)](link) 
