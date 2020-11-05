@@ -7,6 +7,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/pinarkizilarslan)
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=pinarkizilarslan&show_icons=true&theme=gradient) 
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=pinarkizilarslan&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=pinarkizilarslan&theme=blue-white)
