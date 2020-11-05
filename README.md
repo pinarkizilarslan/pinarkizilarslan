@@ -4,5 +4,3 @@
 
 - 🌱 I’m currently working on Python, SQL
 - 💻 Skills: C++ / C# / C / Linux System Management
-
-![Profile views](https://github.com/pinarkizilarslan)
