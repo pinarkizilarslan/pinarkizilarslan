@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pınar
+### Hi 👋, I'm Pınar
 
 ✨ I living in Istanbul, Turkey. I am a Computer Engineer student at Eskişehir Osmangazi University.
 
