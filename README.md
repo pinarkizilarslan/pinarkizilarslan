@@ -12,5 +12,3 @@
 #### How to reach me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/pinarkizilarslan) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=000&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/pinarkzlrsln/) 
-:shipit:
-:LinkedIn:
