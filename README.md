@@ -8,8 +8,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/pinarkizilarslan)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=pinarkizilarslan&theme=blue-white)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinarkizilarslan&layout=compact)
 
 #### How to reach me:
