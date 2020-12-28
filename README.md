@@ -5,7 +5,6 @@
 - 🌱 I’m currently working on MsSQL, Python
 - 💻 Skills: C++ / C# / C / Linux System Management
 
-
 ![Profile views](https://gpvc.arturio.dev/pinarkizilarslan)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinarkizilarslan&layout=compact)
