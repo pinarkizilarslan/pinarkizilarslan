@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Pınar
 
-✨ I'm living in Istanbul, Turkey. I'm a Computer Engineer student at Eskişehir Osmangazi University.
+✨ I'm living in Eskişehir, Turkey. I'm a Computer Engineer student at Eskişehir Osmangazi University.
 
 - 🌱 I’m currently working on MsSQL
 - 💻 Skills: MsSQL / C# / C++ / C / Linux System Management
