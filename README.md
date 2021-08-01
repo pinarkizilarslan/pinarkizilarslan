@@ -2,8 +2,8 @@
 
 ✨ I'm living in Eskişehir, Turkey. I'm a Computer Engineer student at Eskişehir Osmangazi University.
 
-- 🌱 I’m currently working on C#, ASP.NET, MsSQL
-- 💻 Skills: MsSQL / C# / C++ / C / .NET MVC / Linux System Management 
+- 🌱 I’m currently working on Java, MySQL
+- 💻 Skills: MsSQL / C# / C++ / C / ASP.NET / .NET MVC / Linux System Management 
 - 📫 pinarkzlarslan@gmail.com
 
 ![Profile views](https://gpvc.arturio.dev/pinarkizilarslan)
