@@ -2,7 +2,7 @@
 
 ✨ I'm living in Eskişehir, Turkey. I'm a Computer Engineer student at Eskişehir Osmangazi University.
 
-- 🌱 I’m currently working on Java, MySQL
+- 🌱 I’m currently working on Java, Spring Framework, MySQL
 - 💻 Skills: MsSQL / C# / C++ / C / ASP.NET / .NET MVC / Linux System Management 
 - 📫 pinarkzlarslan@gmail.com
 
